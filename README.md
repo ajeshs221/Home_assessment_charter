@@ -62,9 +62,10 @@ Invalid input returns a JSON array of error messages indicating which parameters
 <img width="705" height="340" alt="image" src="https://github.com/user-attachments/assets/d87a0d8a-ae40-4b13-98ea-bfdd354f80b8" />
 <img width="977" height="405" alt="image" src="https://github.com/user-attachments/assets/29412778-d96c-452c-a46c-c04e9e53a6f7" />
 <img width="1985" height="322" alt="image" src="https://github.com/user-attachments/assets/c5381e8e-16b6-4715-874e-ff1488478dc3" />
-<img width="846" height="365" alt="image" src="https://github.com/user-attachments/assets/4a262e70-b4a0-40f4-9b36-1c81e742f6b5" />
+<img width="917" height="396" alt="image" src="https://github.com/user-attachments/assets/68c05899-2121-4085-948a-7f68f29452aa" />
 <img width="793" height="354" alt="image" src="https://github.com/user-attachments/assets/7431efd1-fabd-4091-ac88-d199a38009dd" />
-<img width="832" height="381" alt="image" src="https://github.com/user-attachments/assets/25dd5b2c-5b4f-4d52-875b-b7795df20529" />
+<img width="949" height="372" alt="image" src="https://github.com/user-attachments/assets/159b0cac-a350-4048-8572-385da2b8f229" />
+
 
 
 
